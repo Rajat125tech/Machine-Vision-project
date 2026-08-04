@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 AI-Powered Fake Document Detection System for Student Academic Documents using Machine Vision and Machine Learning.
-This project analyzes student academic documents (marksheets, certificates, ID cards) and classifies them as GENUINE or FAKE, highlighting forged regions using Explainable AI (Grad-CAM).
+This project analyzes student academic documents (marksheets, certificates, ID cards) and classifies them as GENUINE or FAKE, highlighting forged regions using Explainable AI (Grad-CAM)
 
 ## 2. Architecture
 ```text
